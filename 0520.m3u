@@ -1,145 +1,139 @@
-KIDS,vjms://122.155.180.8:8500:3502/live/cid=494
-ABCテレビ-ABC,vjms://14.102.154.164:8500/live/cid=321&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-BS12 トゥエルビ-TwellV,vjms://14.102.154.164:8500/live/cid=302&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-BS-GREEN,vjms://14.102.154.164:8500/live/cid=412&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-BS-TBS,vjms://14.102.154.164:8500/live/cid=305&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-BSアニマックス-ANIMAX,vjms://14.102.154.164:8500/live/cid=498&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-BSジャパン-BS-Japan,vjms://14.102.154.164:8500/live/cid=306&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-BSフジ-BS-Fuji,vjms://14.102.154.164:8500/live/cid=307&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-BS日テレ-BS-NTV,vjms://14.102.154.164:8500/live/cid=304&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-BS日本映画专门チャンネル-Nihon-Eiga,vjms://14.102.154.164:8500/live/cid=213&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-BS朝日-BS-Asahi,vjms://14.102.154.164:8500/live/cid=308&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-Discovery,vjms://14.102.154.164:8500/live/cid=496&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-Disney,vjms://14.102.154.164:8500/live/cid=499&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-FIGHTING TV サムライ-Fighting-TV,vjms://14.102.154.164:8500/live/cid=408&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-GAORA,vjms://122.155.180.8:8500:5021/live/cid=413
-GAORA,vjms://58.215.133.196:8500:3502/live/cid=413&delay=200&httpbuf=200&memory=50
-GAORA,vjms://58.215.133.148:8500:3502/live/cid=413&delay=200&httpbuf=200&memory=50
-GAORA SPORTS,vjms://14.102.154.164:8500/live/cid=413&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-GOLF,vjms://122.155.180.8:8500:5021/live/cid=409
-GOLF,vjms://58.215.133.196:8500:3502/live/cid=409&delay=200&httpbuf=200&memory=50
-GOLF,vjms://58.215.133.148:8500:3502/live/cid=409&delay=200&httpbuf=200&memory=50
-GOLF,vjms://14.102.154.164:8500/live/cid=409&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-J-Sports-1,vjms://14.102.154.164:8500/live/cid=415&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-J-Sports-2,vjms://14.102.154.164:8500/live/cid=416&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-J-Sports-3,vjms://14.102.154.164:8500/live/cid=410&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-J-Sports-4,vjms://14.102.154.164:8500/live/cid=411&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-KIDS,vjms://14.102.154.164:8500/live/cid=494&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-MBSラジオ-MBS,vjms://14.102.154.164:8500/live/cid=319&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-Music-JAPAN,vjms://14.102.154.164:8500/live/cid=495&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-NHK BS1-NHK BS1,vjms://14.102.154.164:8500/live/cid=301&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-NHK BSプレミアム-NHK BS-Premium,vjms://14.102.154.164:8500/live/cid=303&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-NHK Eテレ1东京 关东-NHK-E KANTO,vjms://14.102.154.164:8500/live/cid=310&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-NHK Eテレ1东京 关西-NHK-E KANSAI,vjms://14.102.154.164:8500/live/cid=318&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-NHK G,vjms://58.215.133.196:8500:3502/live/cid=309&delay=200&httpbuf=200&memory=50
-NHK综合1关东-NHK-G KANTO,vjms://14.102.154.164:8500/live/cid=309&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-NHK综合1关西-NHK-G KANSAI,vjms://14.102.154.164:8500/live/cid=317&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-Star 1,vjms://14.102.154.164:8500/live/cid=326&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-Star 2,vjms://14.102.154.164:8500/live/cid=191&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-Star 3,vjms://14.102.154.164:8500/live/cid=193&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-TBS-1,vjms://14.102.154.164:8500/live/cid=221&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-TBSテレビ-TBS,vjms://14.102.154.164:8500/live/cid=314&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-TBSニュースバード-TBS-News-bird,vjms://14.102.154.164:8500/live/cid=220&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-TOKYO MX,vjms://14.102.154.164:8500/live/cid=311&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-TOKYO MX,vjms://58.215.133.196:8500:3502/live/cid=311&delay=200&httpbuf=200&memory=50
-WOWOWシネマ-WOWOW Cinema,vjms://14.102.154.164:8500/live/cid=224&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-WOWOWライブ-WOWOW Live,vjms://14.102.154.164:8500/live/cid=205&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-イマジカBS-Imagica-BS-Cinefil,vjms://14.102.154.164:8500/live/cid=209&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-キッズステーション,vjms://58.215.133.148:8500:3502/live/cid=494&delay=200&httpbuf=200&memory=50
-キッズステーション,vjms://58.215.133.196:8500:3502/live/cid=494&delay=200&httpbuf=200&memory=50
-サンテレビ-SUN,vjms://14.102.154.164:8500/live/cid=320&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-スカイA CS-SKY-A-Sports+,vjms://14.102.154.164:8500/live/cid=210&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-テレビ东京-TV Tokyo,vjms://14.102.154.164:8500/live/cid=315&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-テレビ大阪-TV Osaka,vjms://14.102.154.164:8500/live/cid=322&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-テレビ朝日1-TV Asahi-1,vjms://14.102.154.164:8500/live/cid=223&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-テレビ朝日2-TV Asahi-2,vjms://14.102.154.164:8500/live/cid=217&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-テレビ朝日-TV Asahi,vjms://14.102.154.164:8500/live/cid=313&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-ヒストリーチャンネル-History,vjms://14.102.154.164:8500/live/cid=219&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-ファミリー剧场-Fami Gekijo HD,vjms://14.102.154.164:8500/live/cid=493&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-ファミリー劇場,vjms://58.215.133.196:8500:3502/live/cid=493&delay=200&httpbuf=200&memory=50
-ファミリー劇場,vjms://58.215.133.148:8500:3502/live/cid=493&delay=200&httpbuf=200&memory=50
-ファミリー劇場,vjms://122.155.180.8:8500:5021/live/cid=493
-フジTV ONE,vjms://122.155.180.8:8500:5021/live/cid=212
-フジテレビ ONE-Fuji ONE,vjms://14.102.154.164:8500/live/cid=212&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-フジテレビ-Fuji TV,vjms://14.102.154.164:8500/live/cid=316&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-フジテレビNEXT,vjms://14.102.154.164:8500/live/cid=51&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-フジテレビNEXT,vjms://122.155.180.8:8500:5021/live/cid=54
-フジテレビジョン,vjms://58.215.133.196:8500:3502/live/cid=316&delay=200&httpbuf=200&memory=50
-ムービープラス-Movie Plus,vjms://14.102.154.164:8500/live/cid=497&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-レ,vjms://58.215.133.148:8500:3502/live/cid=304&delay=200&httpbuf=200&memory=50
-东京MX,vjms://122.155.180.8:8500/live/cid=311
-东京电视台,vjms://122.155.180.8:8500/live/cid=315
-关西テレビ-KTV,vjms://14.102.154.164:8500/live/cid=323&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-卫星剧场,vjms://122.155.180.8:8500/live/cid=208
-地面波,vjms://122.155.180.8:8500/live/cid=323
-大阪地面波,vjms://122.155.180.8:8500/live/cid=322
-富士电视台,vjms://122.155.180.8:8500/live/cid=316
-日-J,vjms://58.215.133.154:8500/live/cid=495
-日テレG+HD-NTV-G+,vjms://14.102.154.164:8500/live/cid=207&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-日テレNEWS24,vjms://14.102.154.164:8500/live/cid=53&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-日テレNEWS24,vjms://122.155.180.8:8500:5021/live/cid=53
-日テレPLUS - NTV-PLUS,vjms://14.102.154.164:8500/live/cid=492&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-日テレプラス,vjms://122.155.180.8:8500:5021/live/cid=492
-日テレプラス,vjms://58.215.133.196:8500:3502/live/cid=492&delay=200&httpbuf=200&memory=50
-日テレプラス,vjms://58.215.133.148:8500:3502/live/cid=492&delay=200&httpbuf=200&memory=50
-日本∣ANIMAX,vjms://122.155.180.8:8500/live/cid=498
-日本∣CINEMA 洋片,vjms://122.155.180.8:8500/live/cid=209
-日本∣CINEMA 洋片,vjms://58.215.41.184:8500:3502/live/cid=209
-日本∣Discovery,vjms://122.155.180.8:8500/live/cid=496
-日本∣FIGHTING,vjms://122.155.180.8:8500/live/cid=408
-日本∣Fuji TV NEXT,vjms://122.155.180.8:8500:3502/live/cid=54
-日本∣FUJI TV ONE,vjms://58.215.41.184:8500:3502/live/cid=212
-日本∣FUJI TV ONE,vjms://122.155.180.8:8500/live/cid=212
-日本∣HBO,vjms://122.155.180.8:8500/live/cid=261
-日本∣HISTORY,vjms://122.155.180.8:8500/live/cid=219
-日本∣KBSWORLD,vjms://122.155.180.8:8500/live/cid=216
-日本∣Movieplus,vjms://122.155.180.8:8500/live/cid=497
-日本∣MTV,vjms://122.155.180.8:8500/live/cid=52
-日本∣MTV,vjms://122.155.180.8:8500:3502/live/cid=52
-日本∣NHKE,vjms://122.155.180.8:8500/live/cid=318
-日本∣NHKG,vjms://122.155.180.8:8500/live/cid=317
-日本∣Space Shower TV,vjms://122.155.180.8:8500:3502/live/cid=51
-日本∣Space Shower TV,vjms://122.155.180.8:8500:5021/live/cid=51
-日本∣Sports,vjms://122.155.180.8:8500/live/cid=414
-日本∣TBS,vjms://122.155.180.8:8500/live/cid=314
-日本∣TBS1,vjms://122.155.180.8:8500/live/cid=221
-日本∣TBSNEWS,vjms://122.155.180.8:8500/live/cid=220
-日本∣WOWOW,vjms://122.155.180.8:8500/live/cid=205
-日本∣ファミリー剧场,vjms://58.215.41.184:8500:3502/live/cid=493
-日本∣ファミリー剧场,vjms://122.155.180.8:8500/live/cid=493
-日本∣卫星剧场,vjms://58.215.41.184:8500:3502/live/cid=208
-日本∣日-J,vjms://122.155.180.8:8500/live/cid=495
-日本∣日本电剧,vjms://122.155.180.8:8500/live/cid=213
-日本∣日本钓鱼,vjms://122.155.180.8:8500/live/cid=55
-日本∣日本频道,vjms://122.155.180.8:8500/live/cid=492
-日本∣星空电影1,vjms://58.215.133.185:8500:3502/live/cid=326
-日本∣朝日1,vjms://122.155.180.8:8500/live/cid=223
-日本∣迪士尼,vjms://122.155.180.8:8500/live/cid=499
-日本BS,vjms://122.155.180.8:8500/live/cid=58
-日本STAR2,vjms://122.155.180.8:8500/live/cid=191
-日本STAR3,vjms://122.155.180.8:8500/live/cid=193
-日本テレビ,vjms://58.215.133.196:8500:3502/live/cid=312&delay=200&httpbuf=200&memory=50
-日本テレビ-NTV,vjms://14.102.154.164:8500/live/cid=312&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-日本棒球,vjms://122.155.180.8:8500/live/cid=207
-日野生,vjms://122.155.180.8:8500/live/cid=303
-映剧ライヴエンタテイメント-Eigeki,vjms://14.102.154.164:8500/live/cid=208&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-時代劇専門チャンネル,vjms://58.215.133.196:8500:3502/live/cid=213&delay=200&httpbuf=200&memory=50
-時代劇専門チャンネル,vjms://58.215.133.148:8500:3502/live/cid=213&delay=200&httpbuf=200&memory=50
-朝日放送,vjms://58.215.133.148:8500:3502/live/cid=321&delay=200&httpbuf=200&memory=50
-朝日放送,vjms://58.215.133.196:8500:3502/live/cid=321&delay=200&httpbuf=200&memory=50
-朝日电视台,vjms://122.155.180.8:8500/live/cid=313
-毎日放送,vjms://58.215.133.148:8500:3502/live/cid=319&delay=200&httpbuf=200&memory=50
-毎日放送,vjms://58.215.133.196:8500:3502/live/cid=319&delay=200&httpbuf=200&memory=50
-每日放送,vjms://122.155.180.8:8500/live/cid=319
-衛星劇場,vjms://58.215.133.196:8500:3502/live/cid=208&delay=200&httpbuf=200&memory=50
-衛星劇場,vjms://122.155.180.8:8500:5021/live/cid=208
-衛星劇場,vjms://58.215.133.148:8500:3502/live/cid=208&delay=200&httpbuf=200&memory=50
-読売テレビ,vjms://58.215.133.148:8500:3502/live/cid=324&delay=200&httpbuf=200&memory=50
-読売テレビ,vjms://58.215.133.196:8500:3502/live/cid=324&delay=200&httpbuf=200&memory=50
-读卖テレビ-YTV,vjms://14.102.154.164:8500/live/cid=324&delay=200&httpbuf=200&memory=50|http://tw8058.sinodig.com?key=GomMTgBg1MHzoTQ1GbB9ee
-读卖新闻,vjms://122.155.180.8:8500/live/cid=324
-関東-NHK教育,vjms://122.155.180.8:8500:5021/live/cid=310
-関東-東京MX,vjms://122.155.180.8:8500:5021/live/cid=311
-関西-NHK総合,vjms://122.155.180.8:8500:5021/live/cid=317
-関西テレビ,vjms://58.215.133.148:8500:3502/live/cid=323&delay=200&httpbuf=200&memory=50
-関西テレビ,vjms://58.215.133.196:8500:3502/live/cid=323&delay=200&httpbuf=200&memory=50
+EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+
+
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
+https://mt01.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
+https://mt01.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
+https://mt01.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi (NSFW)
+https://mt01.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
+https://mt01.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
+https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
+https://mt01.utako.moe/Tokyo_MX2/index.m3u8
+
+#EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
+https://mt01.utako.moe/mbs/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
+https://mt01.utako.moe/abc/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
+https://mt01.utako.moe/tvo/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV
+https://mt01.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
+https://mt01.utako.moe/ytv/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
+https://mt01.utako.moe/kbs/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
+https://mt01.utako.moe/suntv/index.m3u8
+
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
+https://mt01.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
+https://mt01.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
+https://mt01.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
+https://mt01.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
+https://mt01.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
+https://mt01.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/250px-Japan_BS10_logo.svg.png",BS10
+https://mt01.utako.moe/bs10/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
+https://mt01.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png",BS12
+https://mt01.utako.moe/bs12/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
+https://mt01.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo_4k" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/bs_tv_tokyo_4k.jpg",BS TV Tokyo 4K (test)
+https://mt01.utako.moe/bstx4k/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
+https://mt01.utako.moe/wprime/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema
+https://mt01.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live
+https://mt01.utako.moe/wlive/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
+https://mt01.utako.moe/bs10_star/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
+https://mt01.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
+https://mt01.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
+https://mt01.utako.moe/js3/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
+https://mt01.utako.moe/js4/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel
+https://mt01.utako.moe/green/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
+https://ca01.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
+https://ca01.utako.moe/nihoneiga/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
+https://ca01.utako.moe/skya/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://www.shochiku-tokyu.co.jp/common/img/common/logo-jcombs.png",JCOM BS
+https://mt01.utako.moe/jcom_bs/index.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
+https://mt01.utako.moe/gaora/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
+https://mt01.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
+https://ca01.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
+https://ca01.utako.moe/mtv/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
+https://ca01.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
+https://ca01.utako.moe/disneychan/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
+https://ca01.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
+https://ca01.utako.moe/ntvgplus/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo
+https://ca01.utako.moe/familygeki/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
+https://ca01.utako.moe/mondo/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
+https://ca01.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
+https://ca01.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1
+https://ca01.utako.moe/ex_ch1/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
+https://ca01.utako.moe/ex_ch2/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
+https://ca01.utako.moe/fuji_one/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
+https://ca01.utako.moe/fuji_two/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
+https://ca01.utako.moe/fuji_next/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
+https://ca01.utako.moe/neco/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife
+https://ca01.utako.moe/dlife/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel
+https://ca01.utako.moe/toei/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai
+https://ca01.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",Entermei Tele
+https://ca01.utako.moe/entermei_tele/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
+https://ca01.utako.moe/sport_live_plus/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
+https://ca01.utako.moe/homedrama/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
+https://ca01.utako.moe/gingach/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
+https://ca01.utako.moe/tabi/index.m3u8
+
